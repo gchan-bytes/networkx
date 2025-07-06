@@ -12,6 +12,14 @@ Light weighted graph, examples show easy implementation
 
 # Lineage Phase 1 Learnings
 
+enumerate:
+
+- list objects one by one or count them
+  The enumerate() function takes a collection (e.g. a tuple) and returns it as an enumerate object.
+  The enumerate() function adds a counter as the key of the enumerate object.
+
+https://www.w3schools.com/python/ref_func_enumerate.asp
+
 topological_generations:
 A topological generation is node collection in which ancestors of a node in each generation are guaranteed to be in a previous generation, and any descendants of a node are guaranteed to be in a following generation. Nodes are guaranteed to be in the earliest possible generation that they can belong to.
 

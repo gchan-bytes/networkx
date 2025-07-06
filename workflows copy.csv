@@ -1,0 +1,6 @@
+Workflow1,Workflow2,Status
+Data Ingestion,Data Cleaning,Completed
+User Authentication,Session Management,In Progress
+Order Processing,Inventory Update,Pending
+Email Notification,Report Generation,Completed
+Payment Gateway,Refund Handling,Failed
